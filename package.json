@@ -1,0 +1,15 @@
+{
+  "name": "us-flag",
+  "version": "1.0.0",
+  "description": "Somewhat useless CLI American Flag",
+  "repository": "https://github.com/JakeRowsell89/us-flag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jake Rowsell-Messchaert",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
