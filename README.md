@@ -1,8 +1,8 @@
-AMERICAN FLAG CLI!
+# AMERICAN FLAG CLI!
 
-Usage:
+## Usage:
+
 ```
 const { flag } = require('us-flag')
 console.log(flag) // Make CLI great again
-
 ```

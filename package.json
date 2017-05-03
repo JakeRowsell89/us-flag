@@ -1,6 +1,6 @@
 {
   "name": "us-flag",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Somewhat useless CLI American Flag",
   "repository": "https://github.com/JakeRowsell89/us-flag",
   "main": "index.js",
